@@ -1,0 +1,312 @@
+[
+  {
+    "_id": "doc_1794996103971_23qbkq",
+    "orderId": "MD-2611-1001",
+    "invoiceNumber": "INV-2611-1001",
+    "user": "doc_1794996103956_6m8a0o",
+    "customerName": "Gurpreet Singh",
+    "customerPhone": "+91 98140 12345",
+    "customerEmail": "gurpreet@example.com",
+    "bookingType": "pickup",
+    "pickupAddress": {
+      "street": "House No. 42, Green Avenue",
+      "landmark": "Opposite Rakh Bagh",
+      "city": "Ludhiana",
+      "postalCode": "141001"
+    },
+    "preferredDate": "2026-11-18",
+    "preferredTimeSlot": "10:00 AM - 12:00 PM",
+    "services": [
+      {
+        "serviceId": "dry-cleaning",
+        "serviceName": "Dry Cleaning"
+      }
+    ],
+    "items": [
+      {
+        "garmentName": "2-Piece Men’s Suit",
+        "serviceType": "Dry Cleaning",
+        "quantity": 1,
+        "unitPrice": 360,
+        "total": 360
+      },
+      {
+        "garmentName": "Formal Shirt",
+        "serviceType": "Dry Cleaning",
+        "quantity": 2,
+        "unitPrice": 110,
+        "total": 220
+      }
+    ],
+    "specialInstructions": "Please handle the suit lapels carefully, delicate Italian wool.",
+    "stainsNotes": "Small coffee spot on the right cuff of one shirt.",
+    "subtotal": 580,
+    "discount": 100,
+    "couponApplied": {
+      "code": "FIRST100",
+      "discountAmount": 100
+    },
+    "taxes": 24,
+    "pickupCharge": 0,
+    "finalTotal": 504,
+    "paymentPreference": "upi",
+    "paymentStatus": "Pending",
+    "orderStatus": "Inspection in Progress",
+    "statusHistory": [
+      {
+        "status": "Booking Received",
+        "note": "Booking placed online.",
+        "updatedAt": "2026-11-18T05:01:43.971Z"
+      },
+      {
+        "status": "Confirmed",
+        "note": "Pickup scheduled with driver.",
+        "updatedAt": "2026-11-18T06:01:43.971Z"
+      },
+      {
+        "status": "Garments Received",
+        "note": "Arrived at Ghumar Mandi facility.",
+        "updatedAt": "2026-11-18T08:01:43.971Z"
+      },
+      {
+        "status": "Inspection in Progress",
+        "note": "Garment technician examining fabric weave and pre-treating cuff spot.",
+        "updatedAt": "2026-11-18T10:01:43.971Z"
+      }
+    ],
+    "estimatedCompletionDate": "2026-11-19",
+    "garmentInspectionNotes": "Fabric in good condition. Pre-spotting coffee spot with gentle alkaline spotter.",
+    "createdAt": "2026-11-18T10:01:43.971Z",
+    "updatedAt": "2026-11-18T10:01:43.971Z"
+  },
+  {
+    "_id": "doc_1794996103972_kn3sk3",
+    "orderId": "MD-2611-1002",
+    "invoiceNumber": "INV-2611-1002",
+    "customerName": "Simran Kaur",
+    "customerPhone": "+91 98720 54321",
+    "customerEmail": "simran.k@example.com",
+    "bookingType": "dropoff",
+    "pickupAddress": {
+      "street": "Ghumar Mandi Store Walk-in",
+      "city": "Ludhiana",
+      "postalCode": "141001"
+    },
+    "preferredDate": "2026-11-17",
+    "preferredTimeSlot": "02:00 PM - 04:00 PM",
+    "services": [
+      {
+        "serviceId": "saree-and-ethnic-wear-care",
+        "serviceName": "Saree and Ethnic Wear Care"
+      }
+    ],
+    "items": [
+      {
+        "garmentName": "Pure Silk / Kanjivaram Saree",
+        "serviceType": "Premium Care",
+        "quantity": 1,
+        "unitPrice": 320,
+        "total": 320
+      },
+      {
+        "garmentName": "Banarasi Brocade Saree",
+        "serviceType": "Premium Care",
+        "quantity": 1,
+        "unitPrice": 380,
+        "total": 380
+      }
+    ],
+    "specialInstructions": "Delicate gold zari embroidery on both pallus.",
+    "subtotal": 700,
+    "discount": 70,
+    "couponApplied": {
+      "code": "MERCURY10",
+      "discountAmount": 70
+    },
+    "taxes": 32,
+    "pickupCharge": 0,
+    "finalTotal": 662,
+    "paymentPreference": "cash",
+    "paymentStatus": "Paid",
+    "orderStatus": "Ready for Pickup",
+    "statusHistory": [
+      {
+        "status": "Booking Received",
+        "note": "Order dropped off at shop counter.",
+        "updatedAt": "2026-11-17T10:01:43.971Z"
+      },
+      {
+        "status": "Confirmed",
+        "note": "Garment tags assigned.",
+        "updatedAt": "2026-11-17T11:01:43.971Z"
+      },
+      {
+        "status": "Garments Received",
+        "note": "Checked into master dry cleaning batch.",
+        "updatedAt": "2026-11-17T14:01:43.971Z"
+      },
+      {
+        "status": "Processing",
+        "note": "Hydrocarbon gentle cleaning complete.",
+        "updatedAt": "2026-11-18T00:01:43.971Z"
+      },
+      {
+        "status": "Quality Check",
+        "note": "Passed 10-point fabric inspection.",
+        "updatedAt": "2026-11-18T06:01:43.971Z"
+      },
+      {
+        "status": "Ready for Pickup",
+        "note": "Packed in protective roll covers and ready at Ghumar Mandi counter.",
+        "updatedAt": "2026-11-18T10:01:43.971Z"
+      }
+    ],
+    "estimatedCompletionDate": "2026-11-18",
+    "createdAt": "2026-11-18T10:01:43.971Z",
+    "updatedAt": "2026-11-18T10:01:43.971Z"
+  },
+  {
+    "_id": "doc_1794996103973_6httby",
+    "orderId": "MD-2611-1003",
+    "invoiceNumber": "INV-2611-1003",
+    "customerName": "Ravinder Verma",
+    "customerPhone": "+91 98888 77665",
+    "customerEmail": "ravinder@example.com",
+    "bookingType": "pickup",
+    "pickupAddress": {
+      "street": "B-12, Sarabha Nagar",
+      "city": "Ludhiana",
+      "postalCode": "141001"
+    },
+    "preferredDate": "2026-11-16",
+    "preferredTimeSlot": "04:00 PM - 06:00 PM",
+    "services": [
+      {
+        "serviceId": "winter-wear-cleaning",
+        "serviceName": "Winter Wear Cleaning"
+      }
+    ],
+    "items": [
+      {
+        "garmentName": "Overcoat / Trench Coat",
+        "serviceType": "Dry Cleaning",
+        "quantity": 1,
+        "unitPrice": 380,
+        "total": 380
+      },
+      {
+        "garmentName": "Double Mink Blanket (Heavy)",
+        "serviceType": "Home Textiles",
+        "quantity": 1,
+        "unitPrice": 380,
+        "total": 380
+      }
+    ],
+    "subtotal": 760,
+    "discount": 0,
+    "taxes": 38,
+    "pickupCharge": 0,
+    "finalTotal": 798,
+    "paymentPreference": "upi",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Booking Received",
+        "note": "Booking confirmed.",
+        "updatedAt": "2026-11-16T10:01:43.971Z"
+      },
+      {
+        "status": "Confirmed",
+        "note": "Driver assigned.",
+        "updatedAt": "2026-11-16T12:01:43.971Z"
+      },
+      {
+        "status": "Garments Received",
+        "note": "Checked in.",
+        "updatedAt": "2026-11-16T14:01:43.971Z"
+      },
+      {
+        "status": "Processing",
+        "note": "Sanitized and cleaned.",
+        "updatedAt": "2026-11-17T10:01:43.971Z"
+      },
+      {
+        "status": "Quality Check",
+        "note": "Passed inspection.",
+        "updatedAt": "2026-11-17T22:01:43.971Z"
+      },
+      {
+        "status": "Out for Delivery",
+        "note": "Out with delivery associate.",
+        "updatedAt": "2026-11-18T06:01:43.971Z"
+      },
+      {
+        "status": "Delivered",
+        "note": "Delivered to customer doorstep in Sarabha Nagar.",
+        "updatedAt": "2026-11-18T10:01:43.971Z"
+      }
+    ],
+    "estimatedCompletionDate": "2026-11-18",
+    "createdAt": "2026-11-18T10:01:43.971Z",
+    "updatedAt": "2026-11-18T10:01:43.971Z"
+  },
+  {
+    "_id": "doc_1794997856228_q1ht36",
+    "orderId": "MD-2611-2202",
+    "invoiceNumber": "INV-2611-2202",
+    "user": null,
+    "customerName": "garv ",
+    "customerPhone": "7814966031",
+    "customerEmail": "jnj",
+    "bookingType": "dropoff",
+    "pickupAddress": {
+      "street": "30",
+      "landmark": "",
+      "city": "Ludhiana",
+      "postalCode": "141001"
+    },
+    "preferredDate": "2026-11-19",
+    "preferredTimeSlot": "10:00 AM - 12:00 PM",
+    "services": [
+      {
+        "serviceId": "dry-cleaning",
+        "serviceName": "Dry Cleaning"
+      }
+    ],
+    "items": [
+      {
+        "garmentName": "2-Piece Men’s Suit",
+        "serviceType": "Dry Cleaning",
+        "quantity": 1,
+        "unitPrice": 360,
+        "total": 360
+      }
+    ],
+    "specialInstructions": "",
+    "stainsNotes": "",
+    "delicateFabricNotes": "",
+    "subtotal": 360,
+    "discount": 0,
+    "couponApplied": {
+      "code": "",
+      "discountAmount": 0
+    },
+    "taxes": 18,
+    "pickupCharge": 0,
+    "finalTotal": 378,
+    "paymentPreference": "cash",
+    "paymentStatus": "Pending",
+    "orderStatus": "Booking Received",
+    "statusHistory": [
+      {
+        "status": "Booking Received",
+        "note": "Booking successfully placed online. Our Ghumar Mandi team has been notified.",
+        "updatedAt": "2026-11-18T10:30:56.214Z"
+      }
+    ],
+    "estimatedCompletionDate": "2026-11-20",
+    "createdAt": "2026-11-18T10:30:56.228Z",
+    "updatedAt": "2026-11-18T10:30:56.228Z"
+  }
+]

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="mercuryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#102A43" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <rect width="100" height="100" rx="24" fill="url(#mercuryGrad)" />
+  
+  <!-- Hanger Hook -->
+  <path d="M 50 24 C 54 24 57 27 57 31 C 57 35 52 38 50 41 L 50 44" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" fill="none" />
+  
+  <!-- Hanger Body -->
+  <path d="M 50 44 L 22 58 C 20 59 19 61 20 63 C 21 65 23 66 25 66 L 75 66 C 77 66 79 65 80 63 C 81 61 80 59 78 58 Z" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linejoin="round" />
+  
+  <!-- Cross Bar for Trousers -->
+  <line x1="26" y1="64" x2="74" y2="64" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Sparkle of Freshness -->
+  <path d="M 72 26 L 74 31 L 79 33 L 74 35 L 72 40 L 70 35 L 65 33 L 70 31 Z" fill="url(#goldGrad)" />
+</svg>

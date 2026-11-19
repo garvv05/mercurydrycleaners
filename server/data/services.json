@@ -1,0 +1,305 @@
+[
+  {
+    "_id": "doc_1794996103958_f0rmz7",
+    "name": "Dry Cleaning",
+    "slug": "dry-cleaning",
+    "category": "Dry Cleaning",
+    "shortDescription": "Eco-friendly hydrocarbon solvent cleaning for fine formal and daily wear.",
+    "description": "Our Italian dry cleaning process uses eco-friendly hydrocarbon solvents that lift oils and stains without harsh mechanical agitation. Form-finished and protected in dust covers.",
+    "startingPrice": 120,
+    "estimatedTime": "48 Hours",
+    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "Zero shrinkage or fiber stress",
+      "Advanced pre-spotting inspection",
+      "Eco-friendly odorless hydrocarbon solvent"
+    ],
+    "careTips": [
+      "Check care label for Dry Clean Only.",
+      "Store in breathable dust covers."
+    ],
+    "included": [
+      "Collar and cuff pre-treatment",
+      "Form-finishing steam pressing",
+      "Protective dust cover"
+    ],
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103959_1oj3xv",
+    "name": "Steam Ironing",
+    "slug": "steam-ironing",
+    "category": "Ironing",
+    "shortDescription": "Industrial vacuum steam pressing for razor-sharp creases without fabric shine.",
+    "description": "High-velocity dry steam injection relaxes fibers while vacuum tables lock in sharp lines without scorching or shining delicate fabrics.",
+    "startingPrice": 40,
+    "estimatedTime": "24 Hours",
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "High-velocity dry steam",
+      "Vacuum extraction table",
+      "Zero shiny iron marks"
+    ],
+    "careTips": [
+      "Button top collar button when hanging."
+    ],
+    "included": [
+      "Cuff and collar roll finishing",
+      "Crease fixation"
+    ],
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103960_uw55lh",
+    "name": "Suit & Blazer Cleaning",
+    "slug": "suit-and-blazer-cleaning",
+    "category": "Dry Cleaning",
+    "shortDescription": "Bespoke 3D torso form-pressing for tuxedos, blazers, and woollen coats.",
+    "description": "Preserve internal chest canvas, shoulder padding, and lapel rolls. Finished on pneumatic torso formers for perfect posture.",
+    "startingPrice": 350,
+    "estimatedTime": "48 Hours",
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "3D pneumatic torso form-pressing",
+      "Button foil protection",
+      "Lapel roll preservation"
+    ],
+    "careTips": [
+      "Brush suits with natural bristle brush."
+    ],
+    "included": [
+      "Button tightening check",
+      "Heavy-duty suit hanger & cover"
+    ],
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103961_yl22kc",
+    "name": "Saree & Ethnic Wear Care",
+    "slug": "saree-and-ethnic-wear-care",
+    "category": "Premium Care",
+    "shortDescription": "Gentle hydrocarbon treatment for Pure Silk, Banarasi, Zari, and Lehengas.",
+    "description": "Safe for delicate gold zari, gota-patti, sequins, and mirror embroidery. Prevents color bleeds and tarnishing with custom saree roll packaging.",
+    "startingPrice": 280,
+    "estimatedTime": "72 Hours",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "Anti-tarnish zari luster shield",
+      "Zero-bleeding certified dye care",
+      "Crease-free rolling"
+    ],
+    "careTips": [
+      "Refold zari sarees along different crease lines every 6 months."
+    ],
+    "included": [
+      "Pallu pre-treatment",
+      "Custom roll packaging"
+    ],
+    "order": 4,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103962_kmrno8",
+    "name": "Winter Wear Cleaning",
+    "slug": "winter-wear-cleaning",
+    "category": "Dry Cleaning",
+    "shortDescription": "Deep conditioning for woollen overcoats, cashmeres, tweeds, and down jackets.",
+    "description": "Removes trapped dust, seasonal odors, and lint while replenishing natural wool lanolin oils for softness, warmth, and moth resistance.",
+    "startingPrice": 220,
+    "estimatedTime": "48 Hours",
+    "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "Lanolin wool conditioner",
+      "De-pilling fuzz removal",
+      "Moth-guard protection"
+    ],
+    "careTips": [
+      "Clean winter coats before seasonal storage."
+    ],
+    "included": [
+      "Motorized de-fuzzing roller pass",
+      "Long protective garment bag"
+    ],
+    "order": 5,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103963_9xulwm",
+    "name": "Blanket & Quilt Cleaning",
+    "slug": "blanket-cleaning",
+    "category": "Home Textiles",
+    "shortDescription": "UV-C sanitized deep cleaning for mink blankets, razais, and duvets.",
+    "description": "Deep solvent sanitization and anti-dust mite thermal treatment for heavy winter mink blankets and quilts, leaving them fluffy and fresh.",
+    "startingPrice": 320,
+    "estimatedTime": "72 Hours",
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "UV-C hygiene sanitization",
+      "Anti-dust mite thermal care",
+      "Plush pile restoration"
+    ],
+    "careTips": [
+      "Store in provided zippered bag."
+    ],
+    "included": [
+      "Large-drum fluffing",
+      "Heavy-duty zippered storage bag"
+    ],
+    "order": 6,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103965_curtains",
+    "name": "Curtain & Drapery Cleaning",
+    "slug": "curtain-cleaning",
+    "category": "Home Textiles",
+    "shortDescription": "On-rail & in-facility dry cleaning for heavy drapes, velvet, and blackout curtains.",
+    "description": "Specialized deep solvent extraction and steam finishing for window curtains, sheer drapes, blackout curtains, and luxury velvet panels without shrinkage.",
+    "startingPrice": 180,
+    "estimatedTime": "48-72 Hours",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "Zero-shrinkage hem guarantee",
+      "Sun-dust & odor extraction",
+      "Pleat and header steam restoration"
+    ],
+    "careTips": [
+      "Vacuum curtains lightly with brush attachment every month."
+    ],
+    "included": [
+      "Pre-spotting of window condensation marks",
+      "Vertical steam hanging finish"
+    ],
+    "order": 7,
+    "isActive": true,
+    "createdAt": "2026-11-19T06:10:00.000Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103966_sofa",
+    "name": "Sofa Sets & Upholstery Care",
+    "slug": "sofa-sets-and-upholstery-care",
+    "category": "Home Textiles",
+    "shortDescription": "Deep fabric foam extraction & dry shampooing for living room sofa sets & recliners.",
+    "description": "Professional fabric sanitization, dust mite extraction, and deep foam dry cleaning for fabric couches, velvet sofas, dining chairs, and luxury recliners.",
+    "startingPrice": 450,
+    "estimatedTime": "Same Day / On-site",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "Deep foam vacuum extraction",
+      "Fabric-safe stain lifters",
+      "Anti-bacterial deodorizing"
+    ],
+    "careTips": [
+      "Blot liquid spills immediately without scrubbing."
+    ],
+    "included": [
+      "Cushion deep sanitization",
+      "Quick-dry thermal drying"
+    ],
+    "order": 8,
+    "isActive": true,
+    "createdAt": "2026-11-19T06:10:00.000Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103967_carpet",
+    "name": "Carpet & Rug Restoration",
+    "slug": "carpet-and-rug-restoration",
+    "category": "Home Textiles",
+    "shortDescription": "Deep pile solvent washing and fringe revival for Persian, wool, and designer rugs.",
+    "description": "Specialized flat-bed solvent washing, fringe grooming, and moth-proofing for Persian carpets, Kashmiri silk rugs, wool dhurries, and modern area rugs.",
+    "startingPrice": 350,
+    "estimatedTime": "72 Hours",
+    "image": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "Dust and grit centrifugal extraction",
+      "Color-fastness lock process",
+      "Hand-groomed fringe revival"
+    ],
+    "careTips": [
+      "Rotate carpets every 6 months to balance sun exposure."
+    ],
+    "included": [
+      "Edge binding inspection",
+      "Rolled protective packaging"
+    ],
+    "order": 9,
+    "isActive": true,
+    "createdAt": "2026-11-19T06:10:00.000Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  },
+  {
+    "_id": "doc_1794996103964_cmp0cm",
+    "name": "Premium Garment Care",
+    "slug": "premium-garment-care",
+    "category": "Premium Care",
+    "shortDescription": "Couture white-glove treatment for designer gowns, sherwanis, and bespoke fashion.",
+    "description": "For high-end fashion pieces and designer runway labels. Processed individually with non-toxic GreenEarth silicone solvents and archival packing.",
+    "startingPrice": 450,
+    "estimatedTime": "72-96 Hours",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "features": [
+      "GreenEarth liquid silicone process",
+      "Hand-detailed stain treatment",
+      "Individual machine cycle"
+    ],
+    "careTips": [
+      "Keep perfumes away from silk and satin finishes."
+    ],
+    "included": [
+      "Fiber condition report",
+      "Teflon shoe hand pressing",
+      "Velvet-padded hanger & cover"
+    ],
+    "order": 10,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.958Z",
+    "updatedAt": "2026-11-19T06:10:00.000Z"
+  }
+]

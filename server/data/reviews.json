@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "doc_1794996103966_7rm2dt",
+    "customerName": "Harpreet Singh Dhillon",
+    "customerLocation": "Model Town, Ludhiana",
+    "rating": 5,
+    "reviewText": "Got my three Raymond three-piece suits dry cleaned here before my brother’s wedding. The lapel shaping and steam finishing were impeccable. They look brand new. Truly the premier dry cleaner in Ghumar Mandi.",
+    "garmentCleaned": "3-Piece Woollen Suits",
+    "isApproved": true,
+    "isFeatured": true,
+    "createdAt": "2026-11-18T10:01:43.966Z",
+    "updatedAt": "2026-11-18T10:01:43.966Z"
+  },
+  {
+    "_id": "doc_1794996103967_8h6dbl",
+    "customerName": "Simran Kaur Gill",
+    "customerLocation": "Civil Lines, Ludhiana",
+    "rating": 5,
+    "reviewText": "I was hesitant to trust anyone with my heavy bridal Banarasi lehenga, but Mercury Drycleaners handled the golden zari work flawlessly with zero tarnishing. Delivered on time in an exquisite garment bag.",
+    "garmentCleaned": "Bridal Banarasi Lehenga",
+    "isApproved": true,
+    "isFeatured": true,
+    "createdAt": "2026-11-18T10:01:43.966Z",
+    "updatedAt": "2026-11-18T10:01:43.966Z"
+  },
+  {
+    "_id": "doc_1794996103968_mx7b5k",
+    "customerName": "Dr. Rajesh Bhalla",
+    "customerLocation": "Sarabha Nagar, Ludhiana",
+    "rating": 5,
+    "reviewText": "Prompt pickup and delivery service at my home. The online booking wizard is super intuitive and tracking my overcoat status in real-time was a breath of fresh air. Highly recommended.",
+    "garmentCleaned": "Cashmere Winter Overcoat",
+    "isApproved": true,
+    "isFeatured": true,
+    "createdAt": "2026-11-18T10:01:43.966Z",
+    "updatedAt": "2026-11-18T10:01:43.966Z"
+  },
+  {
+    "_id": "doc_1794996103969_aob8xc",
+    "customerName": "Amanpreet Chawla",
+    "customerLocation": "Ghumar Mandi, Ludhiana",
+    "rating": 5,
+    "reviewText": "Been walking into their Ghumar Mandi shop for years. The upgrade to this modern online system makes scheduling pickups effortless. Professional fabric care at its finest.",
+    "garmentCleaned": "Pure Silk Sarees & Blazers",
+    "isApproved": true,
+    "isFeatured": true,
+    "createdAt": "2026-11-18T10:01:43.966Z",
+    "updatedAt": "2026-11-18T10:01:43.966Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "doc_1794996103964_jsudb8",
+    "code": "MERCURY10",
+    "title": "10% Welcome Discount",
+    "description": "Get 10% off on dry cleaning orders above ₹400.",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderAmount": 400,
+    "maxDiscount": 300,
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.964Z",
+    "updatedAt": "2026-11-18T10:01:43.964Z"
+  },
+  {
+    "_id": "doc_1794996103965_99iatz",
+    "code": "FIRST100",
+    "title": "Flat ₹100 Off",
+    "description": "Enjoy ₹100 flat discount on your dry cleaning order above ₹500.",
+    "discountType": "fixed",
+    "discountValue": 100,
+    "minOrderAmount": 500,
+    "maxDiscount": 100,
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.964Z",
+    "updatedAt": "2026-11-18T10:01:43.964Z"
+  },
+  {
+    "_id": "doc_1794996103966_59nttd",
+    "code": "PREMIUM20",
+    "title": "20% Off Festive Garment Care",
+    "description": "20% off on orders above ₹1,000 for suits, blazers, and bridal sarees.",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minOrderAmount": 1000,
+    "maxDiscount": 800,
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.964Z",
+    "updatedAt": "2026-11-18T10:01:43.964Z"
+  }
+]

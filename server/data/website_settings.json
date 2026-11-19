@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "doc_1794996103969_6omovk",
+    "businessName": "MERCURY DRYCLEANERS",
+    "tagline": "Your Clothes. Our Care. Always Fresh.",
+    "phone": "+91 78149 66031",
+    "email": "garvv22@gmail.com",
+    "whatsappNumber": "917814966031",
+    "address": {
+      "shopNo": "Shop 14, Main Market",
+      "area": "Ghumar Mandi",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "pincode": "141001",
+      "country": "India"
+    },
+    "operatingHours": {
+      "days": "Monday – Saturday",
+      "timings": "9:00 AM – 8:30 PM",
+      "sundayTimings": "Closed",
+      "openTime": "09:00",
+      "closeTime": "20:30"
+    },
+    "hero": {
+      "heading": "Premium Care for Every Fabric.",
+      "subheading": "Experience professional dry cleaning and garment care with Mercury Drycleaners. We take care of your clothes so you can focus on what matters.",
+      "locationBadge": "Proudly serving Ghumar Mandi, Ludhiana"
+    },
+    "promoBanner": {
+      "heading": "Give Your Clothes the Care They Deserve.",
+      "subheading": "First time with Mercury Drycleaners? Enjoy ₹100 off on your first order with coupon FIRST100.",
+      "buttonText": "Schedule a Pickup",
+      "isActive": true
+    },
+    "beforeAfterComparisons": [
+      {
+        "title": "Italian Wool 3-Piece Suit",
+        "garment": "Bespoke Blue Plaid Woollen Suit & Vest",
+        "beforeImage": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80",
+        "afterImage": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80",
+        "description": "Eco-hydrocarbon dry cleaning lifted beverage & sauce spills, vacuum steam-pressed lapels, restored wool luster."
+      },
+      {
+        "title": "Formal White Dress Shirt",
+        "garment": "Crisp Cotton Formal Dress Shirt",
+        "beforeImage": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "afterImage": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "description": "Enzyme pre-spotting completely lifted placket coffee spill and collar grime, finished with crisp vacuum pressing."
+      }
+    ],
+    "pricingDisclaimer": "Estimated – demo prices. Final prices confirmed upon garment inspection at our Ghumar Mandi store.",
+    "freePickupThreshold": 500,
+    "pickupCharge": 50,
+    "taxPercentage": 5,
+    "createdAt": "2026-11-18T10:01:43.969Z",
+    "updatedAt": "2026-11-18T10:01:43.969Z"
+  }
+]

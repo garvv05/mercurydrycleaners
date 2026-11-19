@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "doc_1794996103956_6m8a0o",
+    "name": "Gurpreet Singh",
+    "email": "gurpreet@example.com",
+    "phone": "+91 98140 12345",
+    "password": "$2a$10$u67YKV1/z4wk.ru7vI36yeGl30LsQg0A.ADNN5aKHvcRXnC32CBBS",
+    "role": "customer",
+    "addresses": [
+      {
+        "label": "Home",
+        "street": "House No. 42, Green Avenue, Near Club Road",
+        "landmark": "Opposite Rakh Bagh",
+        "city": "Ludhiana",
+        "postalCode": "141001",
+        "isDefault": true
+      },
+      {
+        "label": "Office",
+        "street": "Cabin 3, Feroze Gandhi Market",
+        "landmark": "Near Stock Exchange Building",
+        "city": "Ludhiana",
+        "postalCode": "141001",
+        "isDefault": false
+      }
+    ],
+    "createdAt": "2026-11-18T10:01:43.956Z",
+    "updatedAt": "2026-11-18T10:01:43.956Z"
+  }
+]

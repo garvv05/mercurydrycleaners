@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "doc_1794996103968_875r0a",
+    "question": "What is the difference between dry cleaning and regular washing?",
+    "answer": "Dry cleaning does not use water. Instead, it utilizes specialized hydrocarbon or liquid silicone fluids that dissolve grease, wine, sweat, and makeup without swelling garment fibers, causing shrinkage, or degrading delicate linings.",
+    "category": "Dry Cleaning",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.968Z",
+    "updatedAt": "2026-11-18T10:01:43.968Z"
+  },
+  {
+    "_id": "doc_1794996103969_qtcems",
+    "question": "Do you offer home pickup and delivery in Ludhiana?",
+    "answer": "Yes! We provide doorstep pickup and scheduled delivery across Ghumar Mandi, Model Town, Civil Lines, Sarabha Nagar, BRS Nagar, and surrounding Ludhiana localities. Orders above ₹500 enjoy complimentary pickup.",
+    "category": "Pickup & Delivery",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.968Z",
+    "updatedAt": "2026-11-18T10:01:43.968Z"
+  },
+  {
+    "_id": "doc_1794996103970_09za3b",
+    "question": "What is the standard turnaround time for dry cleaning?",
+    "answer": "Our standard processing time is 48 hours to ensure careful pre-inspection, stain treatment, gentle drying, vacuum steam pressing, and final quality control. Express 24-hour service is available on request.",
+    "category": "Dry Cleaning",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.968Z",
+    "updatedAt": "2026-11-18T10:01:43.968Z"
+  },
+  {
+    "_id": "doc_1794996103971_g80nmv",
+    "question": "Can you remove tough wine, ink, or turmeric stains from silk?",
+    "answer": "Our master technicians are trained in chemical pre-spotting and enzyme treatment. While success depends on whether the stain was previously ironed or treated with water, we achieve complete stain lifting in over 95% of cases without color loss.",
+    "category": "Garment Care",
+    "order": 4,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.968Z",
+    "updatedAt": "2026-11-18T10:01:43.968Z"
+  },
+  {
+    "_id": "doc_1794996103972_vhn57o",
+    "question": "How do I track my order once it is picked up?",
+    "answer": "Simply enter your unique Order ID (e.g., MD-XXXXX) and mobile number on our \"Track Order\" page. You can follow live updates through 10 detailed stages from \"Garments Received\" to \"Quality Check\" and \"Out for Delivery\".",
+    "category": "General",
+    "order": 5,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.968Z",
+    "updatedAt": "2026-11-18T10:01:43.968Z"
+  },
+  {
+    "_id": "doc_1794996103973_9hr4xr",
+    "question": "Do you provide per-kilogram laundry services?",
+    "answer": "No. Mercury Drycleaners is strictly an artisanal dry-cleaning and garment-care establishment. We price each garment individually according to fabric type, construction, and required finishing to ensure couture-grade care.",
+    "category": "Pricing",
+    "order": 6,
+    "isActive": true,
+    "createdAt": "2026-11-18T10:01:43.968Z",
+    "updatedAt": "2026-11-18T10:01:43.968Z"
+  }
+]

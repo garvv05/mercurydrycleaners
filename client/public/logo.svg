@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <defs>
+    <linearGradient id="logoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#102A43" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+
+  <!-- Icon Emblem -->
+  <g transform="translate(10, 10)">
+    <rect width="60" height="60" rx="16" fill="url(#logoBg)" />
+    <!-- Hook -->
+    <path d="M 30 16 C 33 16 35 18 35 21 C 35 24 31 26 30 28 L 30 30" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" fill="none" />
+    <!-- Hanger Frame -->
+    <path d="M 30 30 L 14 39 C 13 40 12 41 13 42.5 C 13.5 43.5 14.5 44 15.5 44 L 44.5 44 C 45.5 44 46.5 43.5 47 42.5 C 48 41 47 40 46 39 Z" stroke="#FFFFFF" stroke-width="2.5" fill="none" stroke-linejoin="round" />
+    <line x1="16" y1="43" x2="44" y2="43" stroke="#93C5FD" stroke-width="1.8" stroke-linecap="round" />
+    <!-- Sparkle -->
+    <path d="M 45 15 L 46.5 18.5 L 50 20 L 46.5 21.5 L 45 25 L 43.5 21.5 L 40 20 L 43.5 18.5 Z" fill="url(#gold)" />
+  </g>
+
+  <!-- Brand Typography -->
+  <text x="82" y="38" font-family="'Playfair Display', serif" font-size="22" font-weight="700" fill="#102A43" letter-spacing="1.5">MERCURY</text>
+  <text x="82" y="55" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" fill="#2563EB" letter-spacing="3.5">DRYCLEANERS</text>
+  <text x="82" y="67" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="500" fill="#64748B" letter-spacing="0.5">GHUMAR MANDI, LUDHIANA</text>
+</svg>

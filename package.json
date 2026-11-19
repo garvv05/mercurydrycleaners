@@ -1,0 +1,16 @@
+{
+  "name": "mercury-drycleaners",
+  "version": "1.0.0",
+  "description": "Premium MERN Stack Website for Mercury Drycleaners, Ghumar Mandi, Ludhiana",
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "start": "node server/server.js",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "seed": "cd server && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
